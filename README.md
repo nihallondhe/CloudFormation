@@ -34,3 +34,4 @@ This is done if we use AWS IAM. You can open AWS IAM using browser and navigate
 to https://console.aws.amazon.com/iam/home. Attach the AWSCodePipelineFullAccess
 policy into your account or role. You can see the AWSCodePipelineFullAccess policy in
 the following screenshot:
+For more details go through link-- https://cloudformation-using-dynamodb.s3.amazonaws.com/Managing_and_Testing_Production_Infrastructure_for_AWS_CloudFormation.pdf
